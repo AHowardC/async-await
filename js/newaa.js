@@ -9,4 +9,4 @@ async function fetchAvaterUrl(userId){
 }
 
 const result = fetchAvaterUrl(123) 
-result 
+result;
