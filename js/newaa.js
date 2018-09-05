@@ -8,5 +8,5 @@ async function fetchAvaterUrl(userId){
     // .then(data => data.imageUrl)
 }
 
-const result = fetchAvaterUrl(123) 
+const result = fetchAvaterUrl(123);
 result;
